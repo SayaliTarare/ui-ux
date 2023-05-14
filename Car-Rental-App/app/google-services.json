@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020425871578",
+    "project_id": "car-rental-app-d5233",
+    "storage_bucket": "car-rental-app-d5233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020425871578:android:bca9f7c0e0d78fa2b205e3",
+        "android_client_info": {
+          "package_name": "com.example.carrentalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020425871578-f0ptd0era7vdgmoe78mpmv2bbkp2r1j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQjAXlpZu4ei9erbBYwRs0l9S6pkOE3xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020425871578-f0ptd0era7vdgmoe78mpmv2bbkp2r1j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
